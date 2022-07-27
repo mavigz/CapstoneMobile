@@ -137,3 +137,64 @@ footer p {
     margin-top: 16px;
     margin-bottom: 16px;
 }
+
+@media only screen and (min-width: 360px) and (max-width: 414px){
+    body{
+        width: 100%;
+        font-size: 1.25rem;
+    }
+    
+    header {
+        box-sizing: border-box;
+        height: 64px;
+        width: 100%;
+    
+    }
+
+    #cont2-button {
+        display: flex;
+        width: 90%;
+        text-align: center;
+        background-color: #5b5c62;
+        height: 40px;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        left: 20.7px;
+    }
+
+    #container2 {
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        background-color: #D9DBE2;
+        padding-bottom: 32px;
+    
+    }
+
+    .information img {
+        max-width: 90%;
+        margin: 16px;
+    
+    }
+
+    .information{
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+    .learning-nav{
+        max-width: 80%;
+        margin-bottom: 8px;
+    }
+
+    .thesisExhibit{
+        width: 100%;
+    }
+
+    #video{
+        width: 100%;
+        margin-bottom: 16px;
+    }
+
+}
