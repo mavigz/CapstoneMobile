@@ -9,6 +9,7 @@ body{
     font-family: 'workSans', sans-serif;
     color: #5b5c62;
     font-size: 1.25rem;
+    
 }
 
 header {
@@ -142,6 +143,7 @@ footer p {
     body{
         width: 100%;
         font-size: 1.25rem;
+        margin-left: 0;
     }
     
     header {
