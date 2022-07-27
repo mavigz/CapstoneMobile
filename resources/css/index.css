@@ -144,6 +144,9 @@ footer p {
         width: 100%;
         font-size: 1.25rem;
         margin-left: 0;
+        position: relative;
+        right: 2px;
+
     }
     
     header {
