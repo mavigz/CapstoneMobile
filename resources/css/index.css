@@ -4,7 +4,7 @@
 }
 
 body{
-    width: 414px;
+    width: 100%;
     height: auto;
     font-family: 'workSans', sans-serif;
     color: #5b5c62;
@@ -79,6 +79,7 @@ header {
 
 .information{
     box-sizing: border-box;
+    width: 100%;
 }
 
 .text{
